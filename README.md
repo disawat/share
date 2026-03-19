@@ -1,6 +1,6 @@
 📌 Project Overview
 
-This project analyzes housing prices across major U.S. cities to understand how population size influences property values.
+This project analyzes housing prices across major U.S. cities to examine the correlation between housing prices and specific factors.
 
 
 🎯 Objectives
